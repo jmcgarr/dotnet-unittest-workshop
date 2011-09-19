@@ -1,0 +1,7 @@
+_ReSharper.*
+TestResults
+Local.testsettings
+TraceAndTestImpact.testsettings
+*.user
+bin/
+obj/
